@@ -11,6 +11,6 @@
 Example download & unpack:
 
 ```
-wget https://github.com/Nestorchik/python/releases/download/all/python310.pak >nil
-expand python310.pak .\ -F:* >nil
+wget https://github.com/Nestorchik/python/releases/download/all/python310.pak >nul
+expand python310.pak .\ -F:* >nul
 ```
