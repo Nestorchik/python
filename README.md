@@ -1,7 +1,7 @@
 # Python 3.10.11 - for GIT portable install
 Use ZIP-file from Releases or "git clone"
 ---
-#Python 3.x - direct download link (PAK format):
+# Python 3.x - direct download link (PAK format):
 
 - v3.8: https://github.com/Nestorchik/python/releases/download/all/python38.pak
 - v3.9: https://github.com/Nestorchik/python/releases/download/all/python39.pak
