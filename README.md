@@ -1,4 +1,4 @@
-# Python 3.10.11 - for GIT portable install
+# Python all versions - for portable install
 ---
 # Python 3.x - direct download link (PAK format):
 
